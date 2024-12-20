@@ -10,7 +10,7 @@ import java.io.IOException;
  * 核心生成器
  */
 public class MainGenerator {
-
+    // todo 实现大量动态文件的生成，解决路径硬编码的问题
     /**
      * 生成
      *
